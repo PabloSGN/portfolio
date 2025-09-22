@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","title":"Test Note"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
+
+
 
 I am Pablo Santamarina Guerrero, data scientist.
 
